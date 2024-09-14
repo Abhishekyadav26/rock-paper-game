@@ -49,3 +49,5 @@ export default tseslint.config({
 })
 ```
 # rock-paper-game
+
+// you can try this telegram bot of this game : t.me/vbbhbfd12bot/TWRPS
